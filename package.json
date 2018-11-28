@@ -1,0 +1,13 @@
+{
+  "name": "webpack-ts-scripts",
+  "version": "1.0.0",
+  "description": "Webpack automate script for building TypeScript library or application",
+  "main": "index.js",
+  "repository": "git@github.com:nampdn/webpack-ts-scripts.git",
+  "author": "nampdn <nampdn@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.26.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
